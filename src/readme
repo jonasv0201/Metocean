@@ -1,0 +1,5 @@
+Run Q3_1.. then Q3_2... and so on. 
+
+'Q3_1_CreateStorms.m' loads the rawData and creates a new struct datafile called S8.
+S8 contains all the Hs & Tp pairs that are storm instances.
+
